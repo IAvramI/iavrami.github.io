@@ -1,0 +1,33 @@
+input.homeImput {
+  flex-grow: 1;
+  padding: 20px;
+  font-size: 28px;
+  height: 50px;
+  border: none;
+}
+
+input.homeImput:focus {
+  outline: none;
+}
+
+::-webkit-input-placeholder {
+  color: gray;
+}
+
+input.faqImput {
+  padding: 10px;
+  font-size: 20px;
+  width: 400px;
+  height: 50px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+input.searchQuestionsImput {
+  padding: 10px;
+  font-size: 20px;
+  width: 400px;
+  height: 20px;
+  border: 1px solid black;
+  border-radius: 5px;
+}

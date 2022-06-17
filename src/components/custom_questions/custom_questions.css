@@ -1,0 +1,20 @@
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.answer {
+  border: 1px solid rgb(124, 124, 124);
+  height: 40px;
+  font-size: 12px;
+  width: 762px;
+  display: table-cell;
+  vertical-align: middle;
+  padding-left: 36px;
+}
+
+.arrow {
+  position: relative;
+  right: 25px;
+  cursor: pointer;
+}

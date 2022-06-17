@@ -1,0 +1,33 @@
+.faq {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100%;
+}
+
+.h21 {
+  color: rgb(30, 30, 32);
+  font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+.faqSection {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.QuestionForm {
+  width: 600px;
+  padding: 50px 150px 50px 150px;
+}
+
+.SectionsWithQuestions {
+  padding: 50px 150px 50px 10px;
+}
+
+.faq1 {
+  text-align: justify;
+  font-size: 20px;
+  color: rgb(30, 30, 32);
+}
